@@ -15,7 +15,7 @@ This is a coding assessment for a Full Stack Engineer role at AccessAlly!
 
 **Transparency**
 
-~1-2 hours 
+~2-3 hours
 
 # Question 1
 **My thought process for this question**
@@ -28,5 +28,5 @@ In comments
 
 **Transparency**
 
-~2-3 hours 
+~1-2 hours  
 
