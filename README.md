@@ -11,9 +11,14 @@ This is a coding assessment for a Full Stack Engineer role at AccessAlly!
 
 **Sample Input/Outputs**
 
+![My Image](q2Output.jpg)
+
 # Question 1
 **My thought process for this question**
+
 In comments
 
 **Sample Input/Outputs**
+
+![My Image](q1Output.jpg)
 
